@@ -1,0 +1,10 @@
+Shipment Size,Priority,Base Cost,Remote delivery,Insurance,Margin
+Small,Low,5,5,3,10%
+Small,Medium,10,5,3,10%
+Small,High,15,5,3,10%
+Medium,Low,10,5,3,10%
+Medium,Medium,20,5,3,10%
+Medium,High,30,5,3,10%
+Large,Low,15,5,3,10%
+Large,Medium,30,5,3,10%
+Large,High,45,5,3,10%
