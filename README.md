@@ -115,15 +115,6 @@ This dashboard helps stakeholders:
 
 ---
 
-## 📁 Project Files
-
-- Power BI Dashboard (.pbix)
-- Fashion Retail Dataset (.csv)
-- Returned Orders Dataset (.csv)
-- Shipping Fees Dataset (.csv)
-
----
-
 ## 👤 Contact
 
 **Soliman Yehia**  
